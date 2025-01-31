@@ -1,4 +1,4 @@
-const express = require("express"); // Import Express
+const express = require("express"); 
 const cors = require("cors"); // Import CORS middleware
 
 const app = express(); // Initialize Express app

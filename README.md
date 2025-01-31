@@ -7,7 +7,7 @@ This API returns:
 - The GitHub URL of this project.
 
 ## API Endpoint
-**GET** `<your-deployed-url>`
+**GET** `<https://api-bj1b.onrender.com>`
 
 ### Response:
 ```json
