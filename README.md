@@ -12,7 +12,7 @@ This API returns:
 ### Response:
 ```json
 {
-  "email": "innovativepotencial@gmail.com",
+  "email": "myemail@gmail.com",
   "current_datetime": "2025-01-30T09:30:00Z",
   "github_url": "https://github.com/Korious/API.git"
 }
